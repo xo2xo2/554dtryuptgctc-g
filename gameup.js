@@ -7367,7 +7367,7 @@ function f3(p11) {
       function f97(p663) {
         this.nn = {};
         function f98() {
-          var vA11 = ["", "", ""];
+          var vA11 = ["gg", "gg", "gg"];
           var v588 = localStorage.getItem("lastBackground");
           var v589 = vA11.filter(p664 => p664 !== v588);
           var v590 = v589[Math.floor(Math.random() * v589.length)];
