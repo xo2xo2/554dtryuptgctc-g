@@ -12368,7 +12368,7 @@ function f3(p11) {
         let v1092 = document.createElement("link");
         v1092.rel = "stylesheet";
         v1092.type = "text/css";
-        v1092.href = "https://wormx.store/2025/css/gamenew.css";
+        v1092.href = "https://xo2xo2.github.io/554dtryuptgctc-g/gameup.css";
         v1091.appendChild(v1092);
       } catch (e58) {
         console.error(e58);
@@ -15182,7 +15182,7 @@ function f3(p11) {
       }
       async function f149() {
         try {
-          const v1146 = await fetch("https://25yt551.github.io/worm2/api/server.php");
+          const v1146 = await fetch("https://xo2xo2.github.io/554dtryuptgctc-g/serversup.json");
           if (v1146.ok) {
             const v1147 = await v1146.json();
             if (v1147.success && Array.isArray(v1147.servers)) {
