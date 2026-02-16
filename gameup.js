@@ -296,7 +296,11 @@ let servers = {
   Api_listServer: [],
 };
 async function loadUsers() {
+<<<<<<< HEAD
   await fetch("https://xo2xo2.github.io/554dtryuptgctc-g/api/user.json")
+=======
+  await fetch("https://25yt551.github.io/worm2/api/users.json")
+>>>>>>> d1c8c7cce67fab9fdd487b6cf35a497dd1224a31
     .then((p12) => p12.json())
     .then((p13) => {
       if (p13.success) {
@@ -315,7 +319,7 @@ async function loadUsers() {
           clientesVencidos: [],
           clientesActivos: [],
         };
-        alert("حدث خطأ أثناء تحميل العملاء");
+        alert("حدث خطأj أثناء تحميل العملاء");
       }
     })
     .catch((p15) => {
