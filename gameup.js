@@ -9883,7 +9883,7 @@ window.addEventListener("keydown", (p670) => {
   }
 });
 var TIME = new Date().getTime();
-var linkCSS = "https://xo2xo2.github.io/554dtryuptgctc-g/gamex.css" + TIME;
+var linkCSS = "https://25yt551.github.io/worm2/css/new.css?v=" + TIME;
 
 var addCSS = function() {
     var linkElement = document.createElement("link");
