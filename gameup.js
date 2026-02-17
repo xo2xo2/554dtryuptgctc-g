@@ -9858,7 +9858,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener(
   "keydown",
   (p668) => {
-    if (p668.key === "F12") {
+    if (p668.key === "") {
       p668.preventDefault();
     }
   },
