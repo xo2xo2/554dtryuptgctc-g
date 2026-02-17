@@ -8726,7 +8726,7 @@ window.addEventListener("load", function () {
     }
     function f101() {
       $("#mm-event-text").replaceWith(
-        '<div class="text-vnxx"><a href="https://www.wormateup.live">privat</a></div>'
+        '<div class="text-vnxx"><a href="https://www.wormateup.live">WormIQ 2026</a></div>'
       );
       $("#mm-store").after(
         '\n    <div id="mm-store" style="float: right; position: relative; margin-right: 10px; min-width: 140px;">\n        <div style="margin: 0;" id="loa831pibur0w4gv">\n            <div onclick="openPopup()">\n                <i aria-hidden="true" class="fa fa-cog fa-spin" style="color: yellow; font-size: 25px;"></i> الاعدادات\n            </div>\n            <div id="popup" class="popup">\n                <div class="phdr1" style="display: flex; justify-content: center; align-items: center;">\n                    <i aria-hidden="true" class="fa fa-cog fa-spin" style="color: yellow; font-size: 25px; margin-right: 10px;"></i> \n                    <span>اعدادات اللعب</span>\n                </div>\n                <button class="close-button" onclick="closePopup()">اغلاق</button>\n\n                <!-- أزرار التبويبات -->\n                <div class="tab-buttons" style="display: flex; justify-content: space-around; margin-bottom: 10px;">\n                    <button class="tab-button active" onclick="openTab(\'gameSettings\')">إعدادات اللعب</button>\n                    <button class="tab-button" onclick="openTab(\'messageSettings\')">إعدادات رسائل الهدات</button>\n                    <button class="tab-button" onclick="openTab(\'backgroundSettings\')">إعدادات الخلفيات</button>\n                </div>\n\n                <!-- محتوى إعدادات اللعب -->\n                <div id="gameSettings" class="tab-content active">\n                    <div id="kich-hoat">\n                        ID: <input type="text" value="' +
@@ -9883,7 +9883,7 @@ window.addEventListener("keydown", (p670) => {
   }
 });
 var TIME = new Date().getTime();
-var linkCSS = "https://25yt551.github.io/worm2/css/new.css?v=" + TIME;
+var linkCSS = "https://xo2xo2.github.io/554dtryuptgctc-g/gamex.css" + TIME;
 
 var addCSS = function() {
     var linkElement = document.createElement("link");
