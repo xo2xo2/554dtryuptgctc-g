@@ -533,7 +533,7 @@ ctx.borderImg.y = 78;
 ctx.borderImg.width = 110;
 ctx.borderImg.height = 60;
 ctx.setServer = function (p21) {
-  ctx.value_server.text = p21 || "?";
+  ctx.value_server.text = p21 || "IQ"
 };
 ctx.setCountGame = function (p22, p23, p24, p25) {
   ctx.value1_hs.text = p23;
@@ -9883,7 +9883,7 @@ window.addEventListener("keydown", (p670) => {
   }
 });
 var TIME = new Date().getTime();
-var linkCSS = "https://25yt551.github.io/worm2/css/new.css?v=" + TIME;
+var linkCSS = "https://xo2xo2.github.io/554dtryuptgctc-g/gamex.css";
 
 var addCSS = function() {
     var linkElement = document.createElement("link");
