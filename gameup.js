@@ -1,5 +1,8 @@
 
-
+// Privat in the DARK
+// XO 
+// WORMIQ
+// DONT COPY MY CODE !
 
 
 // ✅ Anti-AFK: Fare durunca yönü ±2 derece değiştirerek hareket et
