@@ -4433,8 +4433,8 @@ window.addEventListener("load", function () {
     var vF34 = (function () {
       function f74() {
         this.fn_o = f75;
-        this.Fe = new vF._b(vF.$b.from("/images/bg-obstacle.png"));
-        var v424 = vF.$b.from("/images/confetti-xmas2022.png");
+        this.Fe = new vF._b(vF.$b.from("https://wormate.io/images/bg-obstacle.png"));
+        var v424 = vF.$b.from("https://wormate.io/images/confetti-xmas2023.png");
         this.Ge = [
           new vF._b(v424, new vF.dc(0, 0, 128, 128)),
           new vF._b(v424, new vF.dc(0, 0, 128, 128)),
